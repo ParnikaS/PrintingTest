@@ -20,6 +20,7 @@ class Test_bPrintingApiClass(unittest.TestCase):
         response = self.apiCall()
         assert response == 200
 
+
     def apiCall(self):
         api_url = self.test_data["api_printing"]
         #file = open(self.test_data["testPdfPath"] ,'rb')

@@ -1,4 +1,3 @@
 {
-  "api_printing": "http://go-lb-843065005.us-west-2.elb.amazonaws.com/pattern_overlay?token=823a4022952a4bf0b6531ba7f0b8163a43fac451&format=PDF&org_name=",
-  "testPdfPath": "/Users/parnikasharma/PycharmProjects/PrintingTest/TestData/1533046806_testPDF.pdf"
+  "api_printing": "http://go-lb-843065005.us-west-2.elb.amazonaws.com/pattern_overlay?token=823a4022952a4bf0b6531ba7f0b8163a43fac451&format=PDF&org_name="
 }

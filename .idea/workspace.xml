@@ -3,7 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="7f8e8997-6fdc-48e5-8c04-986f94dfc794" name="Default" comment="UnitTest With dependency.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/1533046806_testPDF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/files/testPDF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/testPDF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/testPatientContent.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/testPatientContent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/testPrintApi.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/testPrintApi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/testPrintApiContent.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/testPrintApiContent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/testPrintMetaApi.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/testPrintMetaApi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPrintMetaApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestPrintMetaApi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestPrintingApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestPrintingApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +29,8 @@
       <file leaf-file-name="Runner.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="8" selection-end-line="10" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#18#33#0" expanded="true" />
               </folding>
@@ -32,8 +41,8 @@
       <file leaf-file-name="Util.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="54" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="54" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -44,8 +53,8 @@
       <file leaf-file-name="TestPrintMetaApi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestPrintMetaApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+            <state relative-caret-position="126">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -56,8 +65,8 @@
       <file leaf-file-name="TestPrintingApi.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestPrintingApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="510">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -69,25 +78,7 @@
         <entry file="file://$PROJECT_DIR$/TestData/testPatientContent.json">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3706" selection-start-column="3706" selection-end-column="3706" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testPrintMetaApi.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestData/testPrintMetaApi.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testPrintApi.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestData/testPrintApi.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+              <caret column="3717" selection-start-column="3717" selection-end-column="3717" />
             </state>
           </provider>
         </entry>
@@ -95,8 +86,8 @@
       <file leaf-file-name="testPrintApiContent.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestData/testPrintApiContent.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state>
+              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -113,7 +104,10 @@
       <find>suite</find>
       <find>util</find>
       <find>Test_bPrintingApiClass</find>
+      <find>test_pri</find>
       <find>test_data</find>
+      <find>test_cont</find>
+      <find>test_da</find>
     </findStrings>
     <replaceStrings>
       <replace>testPrintMetaApi.json</replace>
@@ -131,18 +125,18 @@
         <option value="$PROJECT_DIR$/MetadataApi.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/testPrintMetaApi.json" />
+        <option value="$PROJECT_DIR$/TestData/testPrintMetaApi.json" />
         <option value="$PROJECT_DIR$/Util.py" />
-        <option value="$PROJECT_DIR$/Runner.py" />
+        <option value="$PROJECT_DIR$/TestData/testPrintApi.json" />
         <option value="$PROJECT_DIR$/TestData/testPatientContent.json" />
         <option value="$PROJECT_DIR$/TestData/testPrintApiContent.json" />
-        <option value="$PROJECT_DIR$/TestPrintMetaApi.py" />
-        <option value="$PROJECT_DIR$/TestData/testPrintApi.json" />
-        <option value="$PROJECT_DIR$/TestData/testPrintMetaApi.json" />
         <option value="$PROJECT_DIR$/TestPrintingApi.py" />
+        <option value="$PROJECT_DIR$/Runner.py" />
+        <option value="$PROJECT_DIR$/TestPrintMetaApi.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -165,6 +159,12 @@
               <item name="PrintingTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrintingTest" type="462c0819:PsiDirectoryNode" />
               <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PrintingTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrintingTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PrintingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -199,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Runner">
+  <component name="RunManager" selected="Python.MetadataApi">
     <configuration name="MetadataApi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PrintingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,8 +261,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Runner" />
         <item itemvalue="Python.MetadataApi" />
+        <item itemvalue="Python.Runner" />
         <item itemvalue="Python.PrintingApi" />
       </list>
     </recent_temporary>
@@ -281,26 +281,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49896908" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918397" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3153527" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
-      <window_info id="Favorites" order="2" sideWeight="0.5010309" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5030303" side_tool="true" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32918397" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -312,27 +312,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TestPrintingApi.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TestPrintingApi.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TestPrintingApi.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="32" />
+      <option name="time" value="38" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -525,72 +508,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/shutil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        <state relative-caret-position="155">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="451" column="8" selection-start-line="451" selection-start-column="8" selection-end-line="451" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/ddt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="253" selection-start-line="253" selection-end-line="253" />
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Runner.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="8" selection-end-line="10" />
-          <folding>
-            <element signature="e#18#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestData/testPrintApiContent.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestData/testPrintApi.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+        <state relative-caret-position="279">
+          <caret line="1657" selection-start-line="1657" selection-end-line="1657" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestData/testPrintMetaApi.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestData/testPrintApi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="154" selection-start-line="1" selection-start-column="154" selection-end-line="1" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestData/testPrintApiContent.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestData/testPatientContent.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3706" selection-start-column="3706" selection-end-column="3706" />
+          <caret column="3717" selection-start-column="3717" selection-end-column="3717" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestPrintMetaApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        <state relative-caret-position="126">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -599,8 +596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestPrintingApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -1,4 +1,1 @@
-{
-  "Nanavati":"/Users/parnikasharma/PycharmProjects/PrintingTest/TestData/1533046741_testPDF.pdf",
-  "Blk": "/Users/parnikasharma/PycharmProjects/PrintingTest/TestData/1533046741_testPDF.pdf"
-}
+{"NANAVATI": [{"name": "No File Sent", "filePath": "", "org": "NANAVATI"}, {"name": "Wrong File Sent", "filePath": "/Users/parnikasharma/PycharmProjects/PrintingTest/TestData/testPDF.pdf", "org": "NANAVATI"}, {"name": "Wrong File Sent", "filePath": "/Users/parnikasharma/PycharmProjects/PrintingTest/TestData/files/1533154961NANAVATI_testPDF.pdf", "org": "NANAVATI"}], "BLK": [{"name": "No File Sent", "filePath": "", "org": "BLK"}, {"name": "Wrong File Sent", "filePath": "/Users/parnikasharma/PycharmProjects/PrintingTest/TestData/testPDF.pdf", "org": "BLK"}, {"name": "Wrong File Sent", "filePath": "/Users/parnikasharma/PycharmProjects/PrintingTest/TestData/files/1533154966BLK_testPDF.pdf", "org": "BLK"}]}

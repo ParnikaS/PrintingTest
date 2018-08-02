@@ -20,6 +20,8 @@ class UtilClass():
     def generateKey(self,inpno,org,test_content):
         date = datetime.datetime.now()
         content_Key = calendar.timegm(date.utctimetuple())
-        test_content[org][inpno]["input"]["content_key"] = str(content_Key)
+        test_content[org][inpno]["input"]["content_key"] = str(content_Key)+org
+        print("Content key---->   " + test_content[org][inpno]["input"]["content_key"])
         self.json_write_data(os.path.abspath("TestData/testPatientContent.json"), test_content)
+
 

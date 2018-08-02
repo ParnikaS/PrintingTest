@@ -3,6 +3,5 @@
   "headers": {
     "Content-Type": "application/json",
     "Authorization": "token bb81dfa66b3b5aaea9943a9f475ccc879ddfd55c"
-  },
-  "pdfName": "TestData/1533046806_testPDF.pdf"
+  }
 }
